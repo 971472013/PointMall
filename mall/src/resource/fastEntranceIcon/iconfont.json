@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1547809",
+      "name": "户外",
+      "font_class": "huwai",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5193349",
+      "name": "鱼",
+      "font_class": "yu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5193371",
+      "name": "奶瓶",
+      "font_class": "naiping",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5193374",
+      "name": "护肤品",
+      "font_class": "hufupin",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "5193378",
+      "name": "厨具",
+      "font_class": "chuju",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "5193481",
+      "name": "禽类",
+      "font_class": "qinlei",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "7219487",
+      "name": "医疗",
+      "font_class": "yiliao",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "12575785",
+      "name": "数码",
+      "font_class": "shuma",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
